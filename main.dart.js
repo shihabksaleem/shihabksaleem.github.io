@@ -68926,7 +68926,7 @@ A.Vs.prototype={
 $2(a,b){var s,r,q,p,o=null,n="assets/images/shihab.JPG",m="Flutter Developer",l=this.a,k=this.b,j=t.V,i=k.a
 if(b.b>=1024){s=A.eU(B.k,4)
 j=A.c([new A.cl(5,B.aS,A.W(102,B.k.m()>>>16&255,B.k.m()>>>8&255,B.k.m()&255),B.i,30)],j)
-j=A.fp(A.fV(A.bE(o,A.aiv(A.bE(o,o,B.n,o,o,new A.bf(o,A.aiN(B.ei,new A.lN(n,o,o),0.7),o,o,o,o,B.L),o,o,o,o,o,o,o)),B.n,o,o,new A.bf(o,o,s,o,j,o,B.bE),o,220,o,o,o,o,220),o,o),2)
+j=A.fp(A.fV(A.bE(o,A.aiv(A.bE(o,o,B.n,o,o,new A.bf(o,A.aiN(B.ei,new A.lN(n,o,o),1),o,o,o,o,B.L),o,o,o,o,o,o,o)),B.n,o,o,new A.bf(o,o,s,o,j,o,B.bE),o,220,o,o,o,o,220),o,o),2)
 s=A.T(a).ok.b
 i=A.bG(i,o,o,s==null?o:s.en(B.f,B.X),B.bO)
 s=A.W(38,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255)
